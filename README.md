@@ -1,2 +1,2 @@
 # AhorraLuz
-Repositorio creado para la asignatura Infraestructura Virtual
+Durante los últimos meses se ha producido una gran subida en el precio de la luz que pagamos en nuestros hogares y negocios, por lo que muchas familias han tenido problemas para afrontar estos pagos. Con este software se pretende que podamos comprobar si estamos en una hora en la que el consumo es más barato o si durante las próximas horas tenemos una de estas franjas más baratas, para poder usar lavadoras, calefacción, etc. Además se podrá calcular el precio del uso de los distintos electrodomésticos que tenemos en casa para saber lo que nos costaría usarlos en las distintas franjas horarias del día.
